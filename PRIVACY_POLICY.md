@@ -26,8 +26,8 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 
 ## Contact Us
 
-If you have any questions or suggestions about our Privacy Policy, do not to open an issue in this repo.
+If you have any questions or suggestions about our Privacy Policy, please open an issue in this repo.
 
 ---
 
-*Last updated: [08/01/2024]*
+*Last updated: [08/05/2024]*
